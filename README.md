@@ -10,8 +10,9 @@
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
     <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width=50px src="https://skillicons.dev/icons?i=php" />
     
-    [![My Skills](https://skills.thijs.gg/icons?i=php)](https://skills.thijs.gg)
+    
 
   <a/>
   <div/>
