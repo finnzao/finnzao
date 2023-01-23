@@ -2,7 +2,7 @@
 
   <div>
   <a align="center">
-    <h3>Olá! Me chamo Felipe, e aqui posto minha trajetória no mundo da tecnologia 🤠</h3>
+    <h3>Olá! Me chamo Felipe, e aqui exponho os meus projetos no mundo da tecnologia 🤠</h3>
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
    <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
