@@ -2,7 +2,7 @@
 
   <div>
   <a align="center">
-    <h3>Olá! Me chamo Felipe, e aqui exponho os meus projetos como desenvolvedor 🤠</h3>
+    <h3 align="center">Olá! Me chamo Felipe, e aqui exponho os meus projetos como desenvolvedor 🤠</h3>
 
  <p align="center">
   <a href="https://skillicons.dev">
