@@ -5,7 +5,7 @@
     <h3 align="center">Olá! Me chamo Felipe, e aqui exponho os meus projetos como desenvolvedor 🤠</h3>
 
  <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=git,js,php,python,mysql,react,mongodb,linux,express,nodejs,css,html" />
   </a>
 </p>
