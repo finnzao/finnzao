@@ -2,7 +2,7 @@
 
   <div>
   <a align="center">
-    <h3 align="center">Hi! How have you been? My name is Felipe, and here I introduce all my projects as a web developer.</h3>
+    <h3 align="center">Hi! How have you been? My name is Felipe, and here I introduce all my projects as a developer.</h3>
     
  <p align="center">
   <a >
