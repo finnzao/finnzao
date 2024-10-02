@@ -1,4 +1,4 @@
-### <h1> Software Engineer 🦉</h1>
+### <h1> 🦉</h1>
 
   <div>
   <a align="center">
